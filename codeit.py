@@ -18,3 +18,9 @@ print(f"{1}시간에 {wage}달러 벌었습니다.")
 print(f"{5}시간에 {wage*5}달러 벌었습니다.")
 print(f"{1}시간에 {korean_wage}달러 벌었습니다.")
 print(f"{5}시간에 {korean_wage*5}달러 벌었습니다.")
+
+# 명제 == 참 거짓이 확실한 것
+
+
+## 불린 연산 boolean
+print(True)
