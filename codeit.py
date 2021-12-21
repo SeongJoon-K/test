@@ -23,4 +23,14 @@ print(f"{5}시간에 {korean_wage*5}달러 벌었습니다.")
 
 
 ## 불린 연산 boolean
-print(True)
+print(True) # 이면 불린연산이고 
+print("True") # 이면 문자열이다
+print(not True) # True를 False로 만듬
+print(not False) # False를 True로 만듬
+
+print(type(3)) # int형 취급 
+print(type(3.0)) #float 형 취급
+
+print(type("True"))
+print(type(True))
+
