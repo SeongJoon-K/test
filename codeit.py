@@ -34,3 +34,27 @@ print(type(3.0)) #float 형 취급
 print(type("True"))
 print(type(True))
 
+
+# 함수의 실행순서
+
+def square(x):
+    return x * x
+
+print("함수 호출전")
+print(square(3)+square(4))
+print("함수 호출 후")
+
+
+# return 문의 역할을 무엇인가
+# 1. 값을 돌려주는 것
+# 2. 함수를 즉시 종료시키는 것 
+
+# print, return의 차이
+
+def print_square(x):
+    print(x*x)
+
+def get_square(x):
+    return x * x
+
+get_square(3)
