@@ -25,3 +25,18 @@ print(numbers)
 
 del numbers[4:]
 print(numbers)
+
+# sorted 함수
+
+number = [412,463,4,6,7,3,2,3456,1,60]
+number = sorted(number)
+
+print(number)
+
+# 알파벳 연결
+
+alphabet1 = ["a","b","c"]
+alphabet2 = ["d","e","f"]
+alphabet = alphabet1 + alphabet2
+
+print(alphabet)
