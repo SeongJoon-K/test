@@ -5,6 +5,34 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "type": "java",
+            "name": "Launch main",
+            "request": "launch",
+            "mainClass": "main",
+            "projectName": "test_63a681dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch javaele",
+            "request": "launch",
+            "mainClass": "javaele",
+            "projectName": "test_63a681dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch eleva",
+            "request": "launch",
+            "mainClass": "eleva",
+            "projectName": "test_63a681dd"
+        },
+        {
+            "type": "java",
+            "name": "Launch elejava",
+            "request": "launch",
+            "mainClass": "elejava",
+            "projectName": "test_63a681dd"
+        },
+        {
             "type": "pwa-chrome",
             "request": "launch",
             "name": "Launch Chrome against localhost",
