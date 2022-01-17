@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch bootCampDay1",
+            "request": "launch",
+            "mainClass": "bootCampDay1",
+            "projectName": "test_63a681dd"
+        },
+        {
+            "type": "java",
             "name": "Launch main",
             "request": "launch",
             "mainClass": "main",
